@@ -1,0 +1,1 @@
+Summary book learning part C++ and improve coding quality
